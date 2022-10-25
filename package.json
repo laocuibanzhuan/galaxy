@@ -1,0 +1,17 @@
+{
+  "name": "galaxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "parcel src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "da": "^0.0.3",
+    "dat.gui": "^0.7.9",
+    "three": "^0.145.0"
+  }
+}
